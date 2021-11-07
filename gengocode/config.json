@@ -1,0 +1,8 @@
+{
+    "SrcDir": "./",
+    "VisitDir": [
+        "pb",
+        "xcore",
+        "xpub"
+    ]
+}
